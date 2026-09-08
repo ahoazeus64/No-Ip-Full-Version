@@ -233,3 +233,6 @@ This repository serves as the official landing page for No-IP. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of No-IP today!**
+
+---
+**Last updated:** 2026-09-08 12:04:02 UTC
