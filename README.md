@@ -235,4 +235,4 @@ This repository serves as the official landing page for No-IP. The software is d
 **Get the most recent version of No-IP today!**
 
 ---
-**Last updated:** 2026-11-05 18:37:10 UTC
+**Last updated:** 2026-11-05 23:59:12 UTC
